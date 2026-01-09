@@ -16,7 +16,7 @@ public class BankApplication {
 		// main menu page
 		while (true) {
 			System.out.println("\n--- BANK MANAGEMENT SYSTEM ---");
-			System.out.println("1. Register ");
+			System.out.println("1. Register Customer ");
 			System.out.println("2. Customer Login");
 			System.out.println("3. Exit");
 
